@@ -23,8 +23,8 @@
 #include "addons/RTDBHelper.h"
 
 // Insert your network credentials
-#define WIFI_SSID "IMIE"
-#define WIFI_PASSWORD "Safwee@2022@7"
+#define WIFI_SSID "****"
+#define WIFI_PASSWORD "******"
 
 // Define NTP Client to get time
 WiFiUDP ntpUDP;
